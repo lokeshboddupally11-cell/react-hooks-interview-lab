@@ -637,7 +637,7 @@ function App() {
     <div className="shell">
       <aside>
         <a className="brand" href="#main">
-          <span>H/</span> hooks lab
+          <span>H/</span> Lokesh hooks lab
         </a>
         <p className="eyebrow">THE INTERVIEW EDITION</p>
         <input
